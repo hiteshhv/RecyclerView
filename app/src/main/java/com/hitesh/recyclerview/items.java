@@ -21,7 +21,7 @@ public class items {
     }
 
     public String getYear() {
-        return title2;
+        return title3;
     }
 
     public void setYear(String year) {
